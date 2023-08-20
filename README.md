@@ -1,4 +1,4 @@
-![logo](https://github.com/harshgharsandiya/harshgharsandiya/blob/main/Sasuke.jpg)
+![logo](https://github.com/harshgharsandiya/harshgharsandiya/blob/main/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Harshkumar Gharsandiya</h1>
 <h3 align="center">Passionate About Maintaining Online Anonimity.</h3>
