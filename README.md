@@ -1,7 +1,7 @@
 ![logo](https://github.com/harshgharsandiya/harshgharsandiya/blob/main/github-header-image.png)
 
-<h1 align="center">Hi 👋, I'm Harshkumar Gharsandiya</h1>
-<h3 align="center">Passionate About Maintaining Online Anonimity.</h3>
+<h1 align="center">Hi 👋, I'm Harsh Gharsandiya</h1>
+<h3 align="center">Anonimity</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **harshgharsandiya@gmail.com**
 
-- ⚡ Fun fact **I am passionate about SASUKE UCHIHA.**
+- ⚡ Fun fact **Nothing Really Fun.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
