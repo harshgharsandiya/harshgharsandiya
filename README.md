@@ -1,5 +1,4 @@
 <h2> Hi, I'm Harsh Gharsandiya</h2>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=KathanP19&show_icons=true&theme=radical" width="380">
 <p><em>Security Enthusist <br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
  I am a Computer Engineer who is currently studying from Sarvajanik College Of Engineering And Technology, who has a keen interest in Penetration Testing, Web Application Security and who enjoy doing CTFs.
 
