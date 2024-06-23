@@ -7,6 +7,7 @@ Coming to the practical implementation, I love making scripts in Bash and tools 
 
 ### 🏆 Coding & 🔓 Hacking Profiles:
 <img src="https://tryhackme-badges.s3.amazonaws.com/harshgharsandiya.png" alt="TryHackMe">
+
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23000000.svg?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/harshgharsandiya)
 
 [![Twitter: harshgharsandiya ](https://img.shields.io/twitter/follow/harshgharsandiya?style=flat-square)](https://twitter.com/harshgharsandia)
