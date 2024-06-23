@@ -9,25 +9,3 @@ Coming to the practical implementation, I love making scripts in Bash and tools 
 [![GitHub: harshgharsandiya](https://img.shields.io/github/followers/harshgharsandiya?label=follow%20github&style=flat-square)](https://github.com/harshgharsandiya)
 
 <br>
-
-### More about me...
-
-```go
-package main
-
-type Me struct{
-  Pronouns string
-  Code string
-  BestAndFavoriteSkill string
-}
-
-func main() {
-  me := &Me{
-    Pronouns: "He/Him",
-    Code: "Bash, Python, Golang",
-    BestAndFavoriteSkill: "Pentesting :D"
-  }
-  _ = me
-}
-```
----
