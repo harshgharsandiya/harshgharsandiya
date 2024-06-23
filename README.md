@@ -5,7 +5,11 @@
 Coming to the practical implementation, I love making scripts in Bash and tools in python and golang to automate processes that take lots of time while pentesting web applications. On the way of doing that made me think to write blogs on the hunting Bugs so that I can share my experience with other enthusiasts.
 </em></p>
 
+### 🏆 Coding & 🔓 Hacking Profiles:
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23000000.svg?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/harshgharsandiya)
+
 [![Twitter: harshgharsandiya ](https://img.shields.io/twitter/follow/harshgharsandiya?style=flat-square)](https://twitter.com/harshgharsandia)
+
 [![GitHub: harshgharsandiya](https://img.shields.io/github/followers/harshgharsandiya?label=follow%20github&style=flat-square)](https://github.com/harshgharsandiya)
 
 <br>
